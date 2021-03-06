@@ -6,7 +6,7 @@ Student in High School of Telecommunication Arts and Technology
 
 williamz8996@hstat.org
 
-I am born in 2005 in Brooklyn. I had been growing up in Brooklyn for most of my life. My favorite subject in school is science and it always had been. I am interested in learning about the things around especially the science behind them. My hobbies are playing chess, listening to music, taking a walk, and watching TV. These things really help me calm down and make me feel relaxed.
+I am born in 2005 in Brooklyn. I had been growing up in Brooklyn for most of my life. My favorite subject in school is science and it always had been. I am interested in learning about the things around me especially the science behind them. My hobbies are playing chess, listening to music, taking a walk, and watching TV. These things really help me calm down and make me feel relaxed.
 
 My School Schedule: 
 
