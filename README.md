@@ -2,7 +2,7 @@
 
 ## William Zheng 
 
-Student in **High School of Telecommunication Arts and Technology**
+Student in [**High School of Telecommunication Arts and Technology**](https://www.hstat.org/)
 
 _williamz8996@hstat.org_
 
@@ -17,6 +17,7 @@ I am born in 2005 in Brooklyn. I had been growing up in Brooklyn for most of my 
 * listening to music
 * taking a walk
 * watching TV
+    * watching anime and TV dramas 
 
 
 ---
