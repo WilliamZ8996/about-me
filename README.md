@@ -13,7 +13,7 @@ I am born in 2005 in Brooklyn. I had been growing up in Brooklyn for most of my 
 
 
 ### My Hobbies
-* playing chess
+* [playing chess](https://lichess.org/@/Kaito_Kid_1412)
 * listening to music
 * taking a walk
 * watching TV
