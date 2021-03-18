@@ -23,18 +23,18 @@ I am born in 2005 in Brooklyn. I had been growing up in Brooklyn for most of my 
 
 ### My School Schedule: 
 
-Pd 1: English 
+1. Pd 1: English 
 
-Pd 2: Chemistry 
+2. Pd 2: Chemistry 
 
-Pd 3: Gym 
+3. Pd 3: Gym 
 
-Pd 4: Global History 
+4. Pd 4: Global History 
 
-Pd 5: Big History 
+5. Pd 5: Big History 
 
-Pd 6: SEP 
+6. Pd 6: SEP 
 
-Pd 7: Algebra 2
+7. Pd 7: Algebra 2
 
-Pd 8: Spanish 
+8. Pd 8: Spanish 
