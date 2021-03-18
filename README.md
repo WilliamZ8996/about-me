@@ -13,9 +13,9 @@ I am born in 2005 in Brooklyn. I had been growing up in Brooklyn for most of my 
 
 
 ### My Hobbies
-- playing chess 
-- listening to music
-- taking a walk, and watching TV
+* playing chess
+* listening to music
+* taking a walk, and watching TV
 
 
 ---
