@@ -26,7 +26,7 @@ My favorite subject in school is science and it always had been. I am interested
 
 ### My School Schedule: 
 
-1. Pd 1: English 
+1. _Pd 1: English_
 
 2. Pd 2: Chemistry 
 
@@ -34,10 +34,10 @@ My favorite subject in school is science and it always had been. I am interested
 
 4. Pd 4: Global History 
 
-5. Pd 5: Big History 
+5. _Pd 5: Big History_
 
 6. Pd 6: SEP 
 
 7. Pd 7: Algebra 2
 
-8. Pd 8: Spanish 
+8. _Pd 8: Spanish_ 
